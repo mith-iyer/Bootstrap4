@@ -23,8 +23,18 @@
 	color: floralwhite;
 }
 
-address {
+.address {
 	font-size: 80%;
 	margin: 0px;
 	color: #0F0F0F;
+}
+
+body {
+	padding: 50px 0 0 0;
+	z-index: 0;
+}
+
+.navbar-inverse {
+	background-color: #512DA8;
+	
 }
