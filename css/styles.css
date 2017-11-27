@@ -51,3 +51,16 @@ body {
   right: 0px;
   position: absolute;
   bottom: 0px; }
+
+.modal-dialog > .modal-content .modal-header {
+  background: #512DA8; }
+  .modal-dialog > .modal-content .modal-header h4.modal-title {
+    color: floralwhite; }
+  .modal-dialog > .modal-content .modal-header button {
+    color: floralwhite; }
+
+.modal-dialog > .modal-content .modal-body {
+  background: #D1C4E9; }
+
+.modal-dialog > .modal-content .modal-footer {
+  background: #9575CD; }
